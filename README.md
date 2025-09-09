@@ -1,3 +1,2 @@
 ## Hi there 👋
-https://raw.githubusercontent.com/kleo/pipboy-3000-boot/refs/heads/master/svg/termtosvg_unzww9gs.svg 
- 
+![termtosvg_unzww9gs](https://github.com/user-attachments/assets/d4f9deb1-d48c-401b-8ca2-0b75b75fbe19)
