@@ -19,7 +19,7 @@
 - 🏠 Mantenho um **homelab self-hosted** centrado num servidor Proxmox (*exabyte*)
 - 🔧 Foco em **infraestrutura, sistemas embutidos e ferramentas web** de single-file (sem frameworks)
 - 📡 Projetos recentes: dashboards de monitorização, displays físicos (ESP32, painéis SPI), automação de rede
-- ⚽ 🎮 Digital Fotball
+- ⚽ 🎮 Digital Football
 
 ---
 
