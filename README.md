@@ -16,8 +16,7 @@
 🏠 Mantenho um homelab self-hosted centrado num servidor Proxmox (exabyte)
 🔧 Foco em infraestrutura, sistemas embutidos e ferramentas web de single-file (sem frameworks)
 📡 Projetos recentes: dashboards de monitorização, displays físicos (ESP32, painéis SPI), automação de rede
-⚽ Adepto do FC Porto | 🎮 Crio conteúdo de eFootball no YouTube @Boss_Zlatan_
-🇵🇹 Baseado em Portugal
+⚽ Adepto do FC Porto | 🎮
 ---
 🛠️ Projetos em destaque
 Projeto	Descrição
@@ -27,13 +26,3 @@ Projeto	Descrição
 🎫 Helpdesk Metrics	Dashboard NOC dark-theme com dados live de um Request Tracker via REST2 API
 🔔 Boot Notifier	Notificações de arranque do Windows via ntfy.sh + Task Scheduler
 ---
-📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bosszlatan&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosszlatan&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosszlatan&theme=radical&hide_border=true" />
-</p>
----
-<p align="center"><i>INITIATING...</i> 🐈‍⬛</p>
