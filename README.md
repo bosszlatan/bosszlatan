@@ -16,7 +16,7 @@
 🏠 Mantenho um homelab self-hosted centrado num servidor Proxmox (exabyte)
 🔧 Foco em infraestrutura, sistemas embutidos e ferramentas web de single-file (sem frameworks)
 📡 Projetos recentes: dashboards de monitorização, displays físicos (ESP32, painéis SPI), automação de rede
-⚽ Adepto do FC Porto | 🎮
+⚽ I ❤️ Futebol Digital 🎮
 ---
 🛠️ Projetos em destaque
 Projeto	Descrição
@@ -26,3 +26,10 @@ Projeto	Descrição
 🎫 Helpdesk Metrics	Dashboard NOC dark-theme com dados live de um Request Tracker via REST2 API
 🔔 Boot Notifier	Notificações de arranque do Windows via ntfy.sh + Task Scheduler
 ---
+📊 GitHub Stats
+<p align="center">
+  <img src="./metrics.svg" alt="Métricas do GitHub" />
+</p>
+<sub>Gerado automaticamente todos os dias via GitHub Actions — sem depender de serviços externos instáveis.</sub>
+---
+<p align="center"><i>INITIATING...</i> 🐈‍⬛</p>
