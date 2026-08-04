@@ -19,8 +19,7 @@
 - 🏠 Mantenho um **homelab self-hosted** centrado num servidor Proxmox (*exabyte*)
 - 🔧 Foco em **infraestrutura, sistemas embutidos e ferramentas web** de single-file (sem frameworks)
 - 📡 Projetos recentes: dashboards de monitorização, displays físicos (ESP32, painéis SPI), automação de rede
-- ⚽ Adepto do **FC Porto** | 🎮 Crio conteúdo de eFootball no YouTube [**@Boss_Zlatan_**](https://youtube.com/@Boss_Zlatan_)
-- 🇵🇹 Baseado em Portugal
+- ⚽ 🎮 Digital Fotball
 
 ---
 
